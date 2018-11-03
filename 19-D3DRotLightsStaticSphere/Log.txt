@@ -1,0 +1,29 @@
+Log File is Successfully Opened.
+D3D11CreateDeviceAndSwapChain() Succeeded.
+The Chosen Driver is : Hardware Type.
+The Supported Highest Feature Level Is11.0
+D3DCompile() Succeeded For Vertex Shader. For Per Vertex
+ID3D11Device::CreateVertexShader() Succeeded For Per Vertex.
+D3DCompile() Succeeded For Vertex Shader For Per Pixel.
+ID3D11Device::CreateVertexShader() Succeeded For Per Pixel.
+D3DCompile() Succeeded For Pixel Shader Per Vertex.
+ID3D11Device::CreatePixelShader() Succeeded Per Vertex.
+D3DCompile() Succeeded For Pixel Shader Per Pixel.
+ID3D11Device::CreatePixelShader() Succeeded Per Pixel.
+ID3D11Device::CreateInputLayout() Succeeded For Per Vertex.
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer For Sphere position.
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer Sphere color.
+ID3D11Device::CreateBuffer() Succeeded For Index Buffer Sphere.
+ID3D11Device::CreateBuffer Succeeded for ConstantBuffer.
+ID3D11Device::CreateRasterizerState Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+resize() Succeeded.
+intialize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+resize() Succeeded.
+uninitialize() Succeeded.
+Log File is Successfully closed.

@@ -1,0 +1,29 @@
+Log File is Successfully Opened.
+D3D11CreateDeviceAndSwapChain() Succeeded.
+The Chosen Driver is : Hardware Type.
+The Supported Highest Feature Level Is11.0
+D3DCompile() Succeeded For Vertex Shader.
+ID3D11Device::CreateVertexShader() Succeeded.
+D3DCompile() Succeeded For Pixel Shader.
+ID3D11Device::CreateInputLayout() Succeeded.
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer For Triangle position.
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer For Triangle position.
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer triangle color.
+ID3D11Device::CreateBuffer Succeeded for ConstantBuffer.
+ID3D11Device::CreateRasterizerState() Succeeded.
+CreateWICTextureFromFile() Succeeded For Texture Resource.
+LoadD3DTexture() Succeeded For CheckerBoard.
+ID3D11Device::CreateSamplerState() Succeeded For CheckerBoard Texture.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+resize() Succeeded.
+intialize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+resize() Succeeded.
+uninitialize() Succeeded.
+Log File is Successfully closed.
+uninitialize() Succeeded.
+Log File is Successfully closed.
